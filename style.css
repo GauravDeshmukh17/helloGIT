@@ -1,0 +1,28 @@
+img[src="images/Water_falls.jpg"] {
+
+    width: 75vw;
+    height: 85vh;
+    margin-left: 8.5vw;
+    border: 3vw groove purple;
+}
+
+html {
+    font-size: 2vw;
+}
+
+li{
+    margin-left: 1vw;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:link,a:visited{
+    color:black;
+}
+
+a:hover{
+    color:darkturquoise;
+}
