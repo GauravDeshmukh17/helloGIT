@@ -1,0 +1,10 @@
+This is 5.txt
+
+to ignore any file it must be untrack
+
+to check file in remote directory -> git remote -v
+
+to make tracked file untrack -> git rm --cahsed
+
+
+
