@@ -1,3 +1,5 @@
 this is 6.txt
 
 hi , how are you ? 
+
+from where are you ?
