@@ -1,1 +1,13 @@
 gaurav Deshmukh
+
+(1) If file is tracked or file is in Staging/index Area to make it untrack use command --> --> git rm--cached <fileName>
+    here,in this case file is removed from staging/index area and file remains in Working Directory
+
+(2) If file is tracked or file is in staging area if we want to remove file from both Working Directory and Staging Area use command  -->  gt rm -f <filename>
+
+(3) If file is in unmodified state (i.e file is commited , after file is committed it get stored in .git folder and becomes unmodified) then to remove file from both Working Directory and Staging/index area use command  -->  git  rm <fileName>
+
+(4) If by mistake or any how we send our file in staging area(i.e by doing->git add <file>)
+and now if we want file to get back in the stage that it was before , then use comamnd
+--> git restore --staged <fileName>
+
